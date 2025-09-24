@@ -1,0 +1,14 @@
+## Exercício para Contribuição – Sprint 1
+
+User Story relacionada: US02 – Login no sistema.
+
+Tarefas:
+Criar um arquivo `login.js`.
+Solicitar ao usuário nome/email e senha.
+Verificar se os campos foram preenchidos. Caso contrário, exibir mensagem de erro.
+Comparar com credenciais de teste (ex.: usuário = "teste", senha = "1234").
+Exibir mensagem de sucesso ou erro no console.
+Fazer commit e push da implementação na branch correspondente à US no GitHub.
+Atualizar status da US no Notion após a entrega.
+
+Dica: Você pode basear seu código no exemplo em JavaScript apresentado neste material. O importante é que seja funcional e contribua para a US.
