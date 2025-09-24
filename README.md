@@ -1,29 +1,30 @@
-# 🟢 Metodologia Ágil 3PSCRUM
+# Metodologia Ágil 3PSCRUM  
 
-> **3P:** Prático, Passo a Passo, Projeto 
-> Uma abordagem ágil adaptada para aprendizado de programação e contribuição direta em projetos usando a metodologia Scrum.
+**3P: Prático • Passo a Passo • Projeto**  
+Uma abordagem ágil adaptada para o aprendizado de programação, unindo teoria, prática e contribuição direta em projetos com Scrum.  
 
 ---
 
-## 📌 Objetivo
+## Objetivo  
 
-A metodologia **3PSCRUM** combina aprendizado de uma forma guiada e prática real de código, especialmente para equipes com pouca experiência.  
-Cada material contém exemplos de código e exercícios práticos vinculados a **User Stories (US)** do projeto principal, garantindo que  cada entrega contribua diretamente para as Sprints do Scrum.  
+A metodologia **3PSCRUM** foi criada para facilitar o aprendizado de programação em equipes iniciantes.  
+Cada material traz exemplos de código e exercícios práticos conectados diretamente às **User Stories (US)** do projeto principal.  
 
-O fluxo segue três pilares:
+Assim, cada atividade concluída já gera valor real dentro da Sprint.  
 
-- **Prático:** Cada atividade envolve codificação e implementação real.
-- **Passo a Passo:** Os materiais guiam o aluno do básico ao avançado de forma clara e estruturada.
-- **Projeto:** Todo exercício contribui para as Sprints e para o projeto real.
+### Os 3 pilares  
+- **Prático:** Exercícios com implementação real de código.  
+- **Passo a Passo:** Conteúdo guiado, do básico ao avançado.  
+- **Projeto:** Cada entrega fortalece o projeto principal.  
+
 ---
 
-## 🛠 Como usar
+## Como usar  
 
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/seuusuario/3pscrum.git
-```
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/seuusuario/3pscrum.git```
+---
 2. Abra o material de estudo (PDF);
 
 3. Siga os exemplos de código;
@@ -67,8 +68,8 @@ Fazer commit e push da implementação na branch correspondente à US no GitHub.
 Atualizar status da US no Notion após a entrega.
 
 Use o exemplo do material como referência, garantindo que o código esteja funcional e contribua para a US.
-
-## 💡 Dicas
+---
+## Dicas
 
 Use os exemplos do material como base, não copie diretamente;
 
@@ -78,6 +79,7 @@ Documente as suas mudanças no Notion para contabilizar pontos;
 
 Concentre-se nas funcionalidade, não em perfeição estética;
 
+---
 
 ## Repositório do Projeto
 
