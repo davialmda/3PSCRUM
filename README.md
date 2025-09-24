@@ -36,7 +36,7 @@ Assim, cada atividade concluída já gera valor real dentro da Sprint.
 6. Atualize o status da US no Notion para contabilizar pontos de participação/contribuição;
 
 📚 Estrutura do repositório
-/material
+/materiais
     ├─ exemplos/        # Código de exemplo (JavaScript)
     ├─ exercícios/      # Exercícios para praticar e contribuir com Sprints
     └─ PDFs/            # Material em PDF 
