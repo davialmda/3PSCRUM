@@ -77,3 +77,12 @@ Sempre verifique se o exercício cumpre os requisitos da US correspondente;
 Documente as suas mudanças no Notion para contabilizar pontos;
 
 Concentre-se nas funcionalidade, não em perfeição estética;
+
+
+## Repositório do Projeto
+
+Para entregar suas contribuições, acesse o repositório do projeto real:  
+[Projeto Sweetly](https://github.com/Arthurbrs34/startup-entregas)
+
+- Cada exercício do material está ligado a uma **User Story**.
+- Faça commit na branch correspondente à US.
