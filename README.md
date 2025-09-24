@@ -1,6 +1,6 @@
 # 🟢 Metodologia Ágil 3PSCRUM
 
-> **3P:** Perfeito, Prático, Pronto  
+> **3P:** Prático, Passo a Passo, Projeto 
 > Uma abordagem ágil adaptada para aprendizado de programação e contribuição direta em projetos usando a metodologia Scrum.
 
 ---
@@ -12,10 +12,9 @@ Cada material contém exemplos de código e exercícios práticos vinculados a *
 
 O fluxo segue três pilares:
 
-1. **Perfeito:** Conceitos claros e bem explicados; 
-2. **Prático:** Exercícios funcionais para treinar lógica e programação;
-3. **Pronto:** Código e tarefas prontos para integrar a Sprint do projeto;
-
+- **Prático:** Cada atividade envolve codificação e implementação real.
+- **Passo a Passo:** Os materiais guiam o aluno do básico ao avançado de forma clara e estruturada.
+- **Projeto:** Todo exercício contribui para as Sprints e para o projeto real.
 ---
 
 ## 🛠 Como usar
@@ -37,9 +36,9 @@ git clone https://github.com/seuusuario/3pscrum.git
 
 📚 Estrutura do repositório
 /material
-    ├─ exemplos/        # Código de exemplo (JavaScript, React etc.)
+    ├─ exemplos/        # Código de exemplo (JavaScript)
     ├─ exercícios/      # Exercícios para praticar e contribuir com Sprints
-    └─ PDFs/            # Material em PDF ou LaTeX
+    └─ PDFs/            # Material em PDF 
 
 
 
