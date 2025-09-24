@@ -1,0 +1,13 @@
+## Exercício para Contribuição – Sprint 1
+
+User Story relacionada:  US01 – Cadastro de usuário.
+
+
+Tarefas:
+Criar um arquivo cadastro.js.
+Solicitar ao usuário nome/email e senha.
+Verificar se os campos foram preenchidos. Caso contrário, exibir mensagem de erro.
+Salvar as credenciais em uma lista (simulando um banco de dados).
+Exibir mensagem de sucesso no console confirmando o cadastro realizado.
+Fazer commit e push da implementação na branch correspondente à US no GitHub.
+Atualizar status da US no Notion após a entrega.
