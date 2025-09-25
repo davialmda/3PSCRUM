@@ -1,0 +1,16 @@
+## Exercício para Contribuição – Sprint 1
+
+User Story relacionada: US02 – Login no aplicativo.
+
+Objetivo: Criar uma tela de login funcional em React Native, aplicando conceitos de componentes, estado e eventos (Aprofundamento o PDF tem um repositório para entender a documentação).
+
+Tarefas:
+
+Criar o arquivo {Login.js} no repositório e na pasta do frontend.
+Adicionar campos de texto para email e senha.
+Implementar verificação de campos preenchidos.
+Implementar validação das credenciais de teste.
+Exibir mensagens de sucesso ou erro usando "Alert".
+Comitar e subir a implementação na branch da US.
+Atualizar status da US no Notion após a entrega.
+
