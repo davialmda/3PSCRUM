@@ -1,0 +1,15 @@
+## Exercício para Contribuição – Sprint 1
+
+User Story relacionada: US01 – Cadastro no aplicativo.
+
+Objetivo: Criar uma tela de cadastro funcional em React Native, permitindo que o usuário coloque nome, email e senha.
+
+Tarefas:
+
+Criar o arquivo {Cadastro.js}.
+Adicionar campos de entrada para nome, email e senha.  
+Verificar se todos os campos foram preenchidos; exibir alerta caso, não tenha sido preenchido.
+Salvar as informações em uma lista simulando um banco de dados.
+Exibir mensagem de sucesso após o cadastro.  
+Comitar e subir para a branch correspondente no GitHub.
+Atualizar status da US no Notion.
